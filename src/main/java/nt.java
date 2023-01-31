@@ -2,6 +2,6 @@ public class nt {
     public static void main(String[] args) {
         System.out.println("nt");
         System.out.println("nt2");
-        System.out.println("nt3");
+        System.out.println("master");
     }
 }
