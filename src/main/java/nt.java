@@ -4,6 +4,6 @@ public class nt {
         System.out.println("nt2");
         System.out.println("master");
         System.out.println("hot");
-        System.out.println("put");
+        System.out.println("push");
     }
 }
